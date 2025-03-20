@@ -23,7 +23,7 @@ The bar chart below shows the average hospital stay by age group. Older patients
 ### Medication Usage Analysis
 The bar chart below reveals that readmitted patients use 16.37 medications on average, 6.6% more than non-readmitted patients (15.35).
 
-![Average Medications by Readmission Status](meds_by_readmission.png)
+![Average Medications by Readmission Status]([meds_by_readmission.png](https://github.com/dm97764n/hospital-readmissions-project/blob/main/Average%20Medications%20by%20Readmission%20Status.png))
 
 - **Recommendation:** Reduce medication usage for readmitted patients by 15% (16.37 to 13.91 meds), saving ~2.5 medications per patient.
 - **Impact:** This could cut waste, lower costs, and reduce over-prescription risks, aligning with the 15% waste reduction goal.
