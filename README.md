@@ -28,6 +28,5 @@ The bar chart below reveals that readmitted patients use 16.37 medications on av
 - **Recommendation:** Reduce medication usage for readmitted patients by 15% (16.37 to 13.91 meds), saving ~2.5 medications per patient.
 - **Impact:** This could cut waste, lower costs, and reduce over-prescription risks, aligning with the 15% waste reduction goal.
 
-## Next Steps
-- Build a predictive model to predict readmissions with 80% accuracy using features like hospital stay duration, number of medications, and demographics.
-- Explore additional features or models (e.g., Random Forest) to improve prediction accuracy.
+## Predictive Modeling
+- **Readmission Prediction Model:** Built a logistic regression model to predict hospital readmissions using features like hospital stay duration, number of medications, lab procedures, diagnoses, and demographic flags. The model achieved an accuracy of 56% on the test set. While this is below the target of 80% accuracy, it provides a strong baseline. Future improvements could include adding more features (e.g., number of procedures, diabetes medication usage), trying ensemble methods like Random Forest, or performing hyperparameter tuning to reach the 80% goal.
