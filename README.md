@@ -15,7 +15,7 @@ This project analyzes hospital readmissions data to identify opportunities for i
 ### Hospital Stay Analysis
 The bar chart below shows the average hospital stay by age group. Older patients (80-90: 4.79 days, 70-80: 4.57 days) have the longest stays, above the overall average of 4.40 days.
 
-![Average Hospital Stay by Age Group](Sheet 1.png)
+![Average Hospital Stay by Age Group]([Sheet 1.png](https://github.com/dm97764n/hospital-readmissions-project/blob/main/Sheet%201.png))
 
 - **Recommendation:** Target the 80-90 and 70-80 age groups to reduce stays by 20% (e.g., 4.79 to 3.83 days for 80-90), saving approximately 1 day per patient.
 - **Impact:** Reducing hospital stays for older patients could streamline operations, free up beds, and reduce delays.
