@@ -30,3 +30,6 @@ The bar chart below reveals that readmitted patients use 16.37 medications on av
 
 ## Predictive Modeling
 - **Readmission Prediction Model:** Built a logistic regression model to predict hospital readmissions using features like hospital stay duration, number of medications, lab procedures, diagnoses, and demographic flags. The model achieved an accuracy of 56% on the test set. While this is below the target of 80% accuracy, it provides a strong baseline. Future improvements could include adding more features (e.g., number of procedures, diabetes medication usage), trying ensemble methods like Random Forest, or performing hyperparameter tuning to reach the 80% goal.
+-- [View the predictive modeling code]([readmissions_prediction.ipynb](https://github.com/dm97764n/hospital-readmissions-project/blob/main/readmissions_prediction.ipynb)
+
+  
